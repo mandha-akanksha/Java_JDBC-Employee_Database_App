@@ -7,7 +7,7 @@ I developed a Java application that connects to a MySQL database using JDBC to p
 - Java(JDK)
 - MySQL Database
 - JDBC (Java Database Connectivity)
-- Eclipse
+- Eclipse IDE
 - MySQL Workbench
 
 ## Features:
